@@ -1,3 +1,4 @@
+---
 # Broken Access Control — Detailed Reference
 
 ## Table of Contents
