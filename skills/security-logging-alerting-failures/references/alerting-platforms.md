@@ -1,3 +1,4 @@
+---
 # Alerting Platform Integration Guides
 
 ## Sentry (Exception Alerting + Performance)
