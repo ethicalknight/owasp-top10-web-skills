@@ -1,3 +1,4 @@
+---
 # A06:2025 Insecure Design — CWE Reference
 
 ## Key CWEs (39 total in category)
