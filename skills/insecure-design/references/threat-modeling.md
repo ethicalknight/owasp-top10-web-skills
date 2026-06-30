@@ -1,3 +1,4 @@
+---
 # STRIDE Threat Modeling Worksheet — FastAPI / Flask
 
 Use this worksheet during design review or code audit. For each flow, walk through each STRIDE
