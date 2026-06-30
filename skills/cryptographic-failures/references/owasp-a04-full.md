@@ -1,3 +1,4 @@
+---
 # OWASP A04:2025 — Cryptographic Failures: Extended Reference
 
 Source: OWASP Top 10:2025 (dataset: 2.8M applications, ~220k CVEs)
